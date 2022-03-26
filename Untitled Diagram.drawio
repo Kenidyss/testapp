@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T15:32:36.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="oPxzfTLTLkBPVxFaQZSn" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T15:53:53.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="EMyEuu9ycO772sV1khXN" version="17.2.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2591" dy="2426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
+    <mxGraphModel dx="2947" dy="2619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,31 +76,49 @@
         <mxCell id="205Q3Kc9jgg5AD7oj4mv-1828" value="BUY" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;verticalAlign=middle;spacing=0;fontStyle=1;textOpacity=50;" parent="205Q3Kc9jgg5AD7oj4mv-1826" vertex="1">
           <mxGeometry y="2" width="120" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1760" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="990" y="-1620" width="560" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1761" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Checkout page&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;" vertex="1" parent="MgWAyxcwD4eq4RJQkwBH-1760">
-          <mxGeometry width="560" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1762" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Page where the user chooses the raffle options&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=0;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;textOpacity=50;" vertex="1" parent="MgWAyxcwD4eq4RJQkwBH-1760">
-          <mxGeometry x="10.909090909090907" y="36.44547932757831" width="534.5454545454545" height="75.43366651522037" as="geometry" />
-        </mxCell>
-        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1763" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px ; line-height: 1.2&quot;&gt;Display the raffle prize with name, photo&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px ; line-height: 1.2&quot;&gt;Display value of the raffle&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px ; line-height: 1.2&quot;&gt;Display date of the draw&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px ; line-height: 1.2&quot;&gt;Display raffled product description&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px ; line-height: 1.2&quot;&gt;Display promotion &quot;Buy cheaper with 4 discount combos options for raffle purchase.&quot;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px ; line-height: 1.2&quot;&gt;Option to select 1, 5, 10 or 15 raffles&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1F3C52;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;align=left;fontStyle=0;spacing=-9;arcSize=9;perimeterSpacing=2;verticalAlign=top;" vertex="1" parent="MgWAyxcwD4eq4RJQkwBH-1760">
-          <mxGeometry x="26.55" y="89.84" width="503.27" height="150.16" as="geometry" />
-        </mxCell>
-        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1764" value="" style="group" vertex="1" connectable="0" parent="MgWAyxcwD4eq4RJQkwBH-1760">
-          <mxGeometry x="425.45" y="290" width="120" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1765" value="BUTTOM" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=9;fontColor=#000000;strokeColor=#C73500;fillColor=#fa6800;verticalAlign=top;spacing=-4;fontStyle=1;textOpacity=30;" vertex="1" parent="MgWAyxcwD4eq4RJQkwBH-1764">
-          <mxGeometry width="120" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1766" value="BUY" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;verticalAlign=middle;spacing=0;fontStyle=1;textOpacity=50;" vertex="1" parent="MgWAyxcwD4eq4RJQkwBH-1764">
-          <mxGeometry y="2" width="120" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1768" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="205Q3Kc9jgg5AD7oj4mv-1828" target="MgWAyxcwD4eq4RJQkwBH-1761">
+        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1768" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="205Q3Kc9jgg5AD7oj4mv-1828" target="MgWAyxcwD4eq4RJQkwBH-1761" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1769" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="205Q3Kc9jgg5AD7oj4mv-1806" target="205Q3Kc9jgg5AD7oj4mv-1811">
+        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1769" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="205Q3Kc9jgg5AD7oj4mv-1806" target="205Q3Kc9jgg5AD7oj4mv-1811" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1761" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Checkout page&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="990" y="-1620" width="560" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1762" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Page where the user completes the purchase&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=0;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;textOpacity=50;" parent="1" vertex="1">
+          <mxGeometry x="1000.9090909090909" y="-1583.5545206724216" width="534.5454545454545" height="75.43366651522037" as="geometry" />
+        </mxCell>
+        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1763" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px ; line-height: 1.2&quot;&gt;Display payment description ex: &quot;P&lt;/font&gt;ayments related to participation in&amp;nbsp; the XXX raffle – automatic numbers.&quot;&lt;/li&gt;&lt;li&gt;Request: name, phone, confirmation phone and optional email&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1F3C52;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;align=left;fontStyle=0;spacing=-9;arcSize=9;perimeterSpacing=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1016.55" y="-1530.16" width="503.27" height="150.16" as="geometry" />
+        </mxCell>
+        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1764" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1016.55" y="-1330" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1765" value="BUTTOM" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=9;fontColor=#000000;strokeColor=#C73500;fillColor=#fa6800;verticalAlign=top;spacing=-4;fontStyle=1;textOpacity=30;" parent="MgWAyxcwD4eq4RJQkwBH-1764" vertex="1">
+          <mxGeometry width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MgWAyxcwD4eq4RJQkwBH-1766" value="FINISH" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;fontColor=#000000;strokeColor=none;fillColor=none;verticalAlign=middle;spacing=0;fontStyle=1;textOpacity=50;" parent="MgWAyxcwD4eq4RJQkwBH-1764" vertex="1">
+          <mxGeometry y="2" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-F6HOGVGPBD2OSw9Kc0U-1760" value="&lt;span style=&quot;font-size: 17px&quot;&gt;By clicking finish you agree to the&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#000000;align=left;fontStyle=0;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="1000.91" y="-1370" width="269.09" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-F6HOGVGPBD2OSw9Kc0U-1780" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;color: rgb(102 , 204 , 0) ; font-size: 17px&quot;&gt;terms&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#000000;align=right;fontStyle=0;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;textOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="1249" y="-1370" width="65.45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-F6HOGVGPBD2OSw9Kc0U-1783" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="990" y="-1240" width="410" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-F6HOGVGPBD2OSw9Kc0U-1762" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Agreement page&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#666666;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;" vertex="1" parent="-F6HOGVGPBD2OSw9Kc0U-1783">
+          <mxGeometry width="410" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-F6HOGVGPBD2OSw9Kc0U-1763" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Page where the contract is shown&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=0;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;textOpacity=70;" vertex="1" parent="-F6HOGVGPBD2OSw9Kc0U-1783">
+          <mxGeometry x="22.91" y="36.45" width="359.09" height="43.55" as="geometry" />
+        </mxCell>
+        <mxCell id="-F6HOGVGPBD2OSw9Kc0U-1764" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px ; line-height: 1.2&quot;&gt;Display terms of agreement&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#333333;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;align=left;fontStyle=0;spacing=-9;arcSize=24;perimeterSpacing=2;verticalAlign=top;" vertex="1" parent="-F6HOGVGPBD2OSw9Kc0U-1783">
+          <mxGeometry x="26.549999999999955" y="89.83999999999992" width="353.45" height="40.16" as="geometry" />
+        </mxCell>
+        <mxCell id="-F6HOGVGPBD2OSw9Kc0U-1782" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#66CC00;" edge="1" parent="1" source="-F6HOGVGPBD2OSw9Kc0U-1780" target="-F6HOGVGPBD2OSw9Kc0U-1762">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
